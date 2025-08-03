@@ -1,1 +1,1 @@
-# Simple-gussing-game
+# Simple-guessing-game
